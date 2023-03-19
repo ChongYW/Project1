@@ -1,0 +1,3 @@
+Tutorial link: https://youtu.be/rJesac0_Ftw
+
+In this JavaScript tutorial we learn what JSON and AJAX are and how to use them to load new data into our webpage on-the-fly.
